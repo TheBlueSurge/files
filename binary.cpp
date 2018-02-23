@@ -9,7 +9,7 @@ int main( )
    float b = 68.123; 
    char c = 'J';
    
-   ofstream out {"abc.txt"};
+   ofstream out {"abc.bin"};
 	
 	if(out)
 	{//checks to see if the file opens
